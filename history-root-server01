@@ -1,0 +1,24 @@
+cat history_root_server01/
+ls
+cd history_root_server01/
+ls
+cd
+history 
+exit
+history 
+pwd
+cd home
+pwd
+cd home
+/home/sysadmin/
+ls
+cd /home/
+ls
+cd sysadmin/
+ls
+cd../
+cd ../
+ls
+cd
+/.bashrc
+exit
